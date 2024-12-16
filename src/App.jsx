@@ -1,7 +1,5 @@
 import { useState } from 'react'
 import './App.css'
-import { use } from 'react'
-// import FighterCard from './components/FighterCard'
 
 
 const App = () => {
